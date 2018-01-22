@@ -1,0 +1,7 @@
+Bu veri seti https://github.com/hardikvasa/google-images-download linkinde yer alan 
+kod aracılığı ile google images üzerinden toplanmış olup henüz ilk versiyondur.
+
+ikinci versiyonda eklemeyi planladıklarım;
+- Türlerin albinp ve melenstik fotoğrafları
+- Türlere ait down sendromlu fotolar
+- varsa alt türler (kar leoparı gibi)
